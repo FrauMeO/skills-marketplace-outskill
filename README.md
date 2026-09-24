@@ -1,6 +1,7 @@
 # Skills Marketplace — Outskill
 
 **A security-first marketplace for AI-agent skills. Every skill is vetted by a multi-layer security scanner before it can be published, and each one carries a visible trust badge.**
+>Credit for the creation of the original to my Outskill Teacher https://github.com/harshith-vaddiparthy
 
 > Status: early, open-source, work-in-progress. Free beta — no payments yet.
 
